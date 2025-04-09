@@ -3,9 +3,9 @@ env:  colab
       python
       pytorch
 
-###actor-critic model 
+### actor-critic model 
 
-###encoder
+### encoder
 
-###decoder
+### decoder
 
